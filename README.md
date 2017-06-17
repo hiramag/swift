@@ -1,6 +1,6 @@
 # Swift
 
-Project in swift 
+Projects in swift 
   - IOS
   - MAC
 
